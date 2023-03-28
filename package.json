@@ -5,7 +5,7 @@
   "homepage": "https://github.com/KalchIgor/Filmoteka-0001.git",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Filmoteka-0001.git/"
+    "build": "parcel build src/*.html --public-url /Filmoteka-0001/"
   },
   "repository": {
     "type": "git",
