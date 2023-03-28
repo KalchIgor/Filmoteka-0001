@@ -38,6 +38,8 @@
   height: 100%;
   object-fit: cover;
   transition: transform 250ms linear;
+  display: flex;
+  justify-content: center;
 
   @media screen and (min-width: 768px) {
     .movie__card:hover &,
@@ -55,6 +57,7 @@
 
 .movie__info {
   padding: 8px 8px 0;
+ 
 
   @media screen and (min-width: 1280px) {
     padding-top: 12px;
@@ -68,7 +71,10 @@
 }
 
 .movie__descr {
+  display: flex;
+  justify-content: center;
   color: #ff6b08;
   font-size: 20px;
   font-weight: 500;
+  margin-bottom: 10px;
 }
