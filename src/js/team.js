@@ -1,114 +1,114 @@
 export const teamList = [
   {
-    name: 'Vlad Makhnenko',
+    name: 'Igor',
     role: 'Team Lead',
-    github: 'https://github.com/vlmakh',
-    linkedin: 'https://www.linkedin.com/in/vlad-makhnenko/',
+    github: 'https://github.com/KalchIgor?tab=repositories',
+    linkedin: 'https://www.linkedin.com/feed/?trk=nav_back_to_linkedin',
     photo:
       'https://cdn.create.vista.com/api/media/medium/23736039/stock-photo-angry-bee-cartoon-mascot-character?token=1',
   },
   {
-    name: 'Natalie Falach',
+    name: 'Name',
     role: 'Scrum Master',
-    github: 'https://github.com/NatalieFalach',
+    github: 'https://github.com/KalchIgor?tab=repositories',
     linkedin: 'https://linkedin.com',
     photo:
       'https://cdn.create.vista.com/api/media/small/416832626/stock-photo-cute-cartoon-animal-glasses-illustration',
   },
   {
-    name: 'Galina Danilko',
+    name: 'Name',
     role: 'Developer',
-    github: 'https://github.com/Galinaddd',
+    github: 'https://github.com/KalchIgor?tab=repositories',
     linkedin: 'https://linkedin.com',
     photo:
       'https://cdn.create.vista.com/api/media/medium/24392501/stock-photo-baby-girl-bee-cartoon-mascot?token=1',
   },
   {
-    name: 'Mykola Saliuk',
+    name: 'Name',
     role: 'Developer',
-    github: 'https://github.com/Mykola0502',
+    github: 'https://github.com/KalchIgor?tab=repositories',
     linkedin: 'https://linkedin.com',
     photo:
       'https://cdn.create.vista.com/api/media/medium/24350585/stock-photo-happy-bee-cartoon-mascot-character?token=1',
   },
 
   {
-    name: 'Eric Ramirez',
+    name: 'Name',
     role: 'Developer',
-    github: 'https://github.com/Eric-Ramirez-90',
+    github: 'https://github.com/KalchIgor?tab=repositories',
     linkedin: 'https://linkedin.com',
     photo:
       'https://cdn.create.vista.com/api/media/medium/352615622/stock-photo-cartoon-animal-insect-bee-white?token=1',
   },
   {
-    name: 'Denis Borysiuk',
+    name: 'Name',
     role: 'Developer',
-    github: 'https://github.com/DenysBorysiuk',
+    github: 'https://github.com/KalchIgor?tab=repositories',
     linkedin: 'https://www.linkedin.com/in/denys-borysiuk/',
     photo:
       'https://cdn.create.vista.com/api/media/small/7442170/stock-photo-cartoon-bee',
   },
   {
-    name: 'Olena Kameneva',
+    name: 'Name',
     role: 'Developer',
-    github: 'https://github.com/Olena0510',
+    github: 'https://github.com/KalchIgor?tab=repositories',
     linkedin: 'https://linkedin.com',
     photo:
       'https://cdn.create.vista.com/api/media/small/346988350/stock-photo-cartoon-animal-insect-bumblebee-white',
   },
   {
-    name: 'Denis Boyko',
+    name: 'Name',
     role: 'Developer',
-    github: 'https://github.com/Denis070987',
+    github: 'https://github.com/KalchIgor?tab=repositories',
     linkedin: 'https://linkedin.com',
     photo:
       'https://cdn.create.vista.com/api/media/medium/31056783/stock-photo-angry-bee-cartoon-character?token=1',
   },
   {
-    name: 'Igor Sokolyanskyy',
+    name: 'Name',
     role: 'Developer',
-    github: 'https://github.com/IgorSokolyanskyy',
+    github: 'https://github.com/KalchIgor?tab=repositories',
     linkedin: 'https://linkedin.com',
     photo:
       'https://cdn.create.vista.com/api/media/medium/30498273/stock-photo-pudgy-bee-cartoon-mascot-character?token=1',
   },
   {
-    name: 'Artem Maslii',
+    name: 'Name',
     role: 'Developer',
-    github: 'https://github.com/Tiomasik',
+    github: 'https://github.com/KalchIgor?tab=repositories',
     linkedin: 'https://www.linkedin.com/in/artem-maslii-4ba12225b/',
     photo:
       'https://cdn.create.vista.com/api/media/medium/7276827/stock-photo-happy-bee?token=1',
   },
 
   {
-    name: 'Vlad Kolyada',
+    name: 'Name',
     role: 'Developer',
-    github: 'https://github.com/daddy-our-bandera',
+    github: 'https://github.com/KalchIgor?tab=repositories',
     linkedin: 'https://linkedin.com',
     photo:
       'https://cdn.create.vista.com/api/media/small/109690862/stock-photo-cartoon-bug-bee-isolated',
   },
   {
-    name: 'Pavel Zolenko',
+    name: 'Name',
     role: 'Developer',
-    github: 'https://github.com/Pavel-Zolenko',
+    github: 'https://github.com/KalchIgor?tab=repositories',
     linkedin: 'https://linkedin.com',
     photo:
       'https://cdn.create.vista.com/api/media/small/8427203/stock-photo-cute-bee',
   },
   {
-    name: 'Andriy Likhoshva',
+    name: 'Name',
     role: 'Developer',
-    github: 'https://github.com/Andriy-Lik',
+    github: 'https://github.com/KalchIgor?tab=repositories',
     linkedin: 'https://linkedin.com',
     photo:
       'https://cdn.create.vista.com/api/media/medium/14099387/stock-photo-happy-bee?token=1',
   },
   {
-    name: 'Dana Onopchenko',
+    name: 'Name',
     role: 'Developer',
-    github: 'https://github.com/DanaOnopchenko',
+    github: 'https://github.com/KalchIgor?tab=repositories',
     linkedin: 'https://linkedin.com',
     photo:
       'https://cdn.create.vista.com/api/media/medium/24350621/stock-photo-bumble-bee-cartoon-character-flying?token=1',
